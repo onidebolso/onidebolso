@@ -4,7 +4,7 @@
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=8B0000&size=28&center=true&vCenter=true&width=420&lines=Marco;Dev;ADS+Student;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?color=8B0000&size=28&center=true&vCenter=true&width=420&speed=50&pause=2000&lines=Marco;Dev;ADS+Student;" />
     </td>
   </tr>
 </table>
