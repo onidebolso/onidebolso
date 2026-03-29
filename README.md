@@ -1,16 +1,21 @@
-## Hi there 👋
+![banner](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-<!--
-**onidebolso/onidebolso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá :D👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Marco e sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
+Tenho facilidade em aprender na prática e estou sempre buscando evoluir minhas habilidades.
+
+🚀 Tecnologias e ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,astro,blender,gamemakerstudio,git,js,ps,pr,ts,)](https://skillicons.dev)
+
+
+
+💡 Sobre mim
+
+Aprendizado rápido e prático
+
+Interesse em desenvolvimento e design
+
+Sempre explorando novas tecnologias
